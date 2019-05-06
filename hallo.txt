@@ -3,7 +3,13 @@ Wir arbeiten im besten Team der Welt :)
 Mit Steffi, Stephan, Flora, Diana, Wolfgang und Josefa. 
 Und wir fahren nach Kroation!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Das wird super. 
 =======
 Das wird meeeegaaa.
 >>>>>>> 581d360... Freude3
+=======
+Das wird meeeegaaa.
+Das wird ganz ganz toll.
+
+>>>>>>> 240f4bd... Freude 2
